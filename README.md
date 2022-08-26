@@ -14,7 +14,7 @@
   
 - 🌱 I’m currently learning Web3.0
   
-- 💬 Ask me about blockchain ,web development
+- 💬 Ask me about Blockchain,Web development
   
 - ⚡ Fun fact: You are Peeking me.
 

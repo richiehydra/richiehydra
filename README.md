@@ -8,7 +8,6 @@
 </div>
 
 <h2> About Me </h2>
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I’m currently an Engineering Student 
   
@@ -19,10 +18,4 @@
 - ⚡ Fun fact: You are Peeking me.
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://twitter.com/thePoojari018'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 
-<br>
-<br>
-  <br>
-<br>

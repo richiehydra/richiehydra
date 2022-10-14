@@ -4,7 +4,7 @@
 <p align='center'>
 </p>
 
-<div size='20px'> Hi! My name is Anonymous. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi!. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
 <h2> About Me </h2>

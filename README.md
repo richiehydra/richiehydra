@@ -2,7 +2,7 @@
 
 
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href=""><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## By the way here are some of my statistics 🚀
 ![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=richiehydra&show_icons=true&theme=tokyonight)
@@ -18,7 +18,7 @@
 
 
 
-<h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4"></a></h2>
+<h2 align="center"><a href=""></a></h2>
 <h6 align="center">Made with ❤️</h6>
 
 

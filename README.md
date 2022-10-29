@@ -35,7 +35,7 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me at ***richiehydra22@gmail.com***</h3>
+<h3> 🤝🏻 &nbsp;Connect with Me at richiehydra22@gmail.com</h3>
 
 
 

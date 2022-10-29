@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Adam Pithenwala</h1>
-<h3 align="center">Student at MITS, Gwalior🌟.</h3>
+<h1 align="center">Hi 👋,Welcome</h1>
+<h3 align="center">Nice to see You Here!🌟.</h3>
 
 <br>
 
@@ -12,9 +12,9 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
 
-- 📫 How to reach me **adampithewan@gmail.com**
+
+- 📫 How to reach me **richiehydra22@gmail.com**
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 

@@ -19,7 +19,7 @@
 
 
 <h2 align="center"><a href=""></a></h2>
-<h6 align="center">Made with ❤️</h6>
+<h6 align="center">Made with ❤️ from Hydra Richie</h6>
 
 
 

@@ -8,7 +8,15 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=richiehydra&theme=tokyonight" alt="mystreak"/>
 
 
-🌱 I’m currently learning lens protocol
+**About Me!**
+
+- 👨🏽‍💻 I’m currently a ISE Undergrad student at NMIT, Banglore
+- 🌱 I’m currently exploring Lens protocol with a big interest
+- 🤔 My interest lies in  Web2.0 , Web3.0 , Android Stuffs ,Competitive Codings
+- 💬 Ask me about anything, I love to answer!
+- 📫 Email me at [richidehydra22@gmail.com].
+
+
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 

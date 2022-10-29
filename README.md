@@ -3,8 +3,8 @@
 
 <a href=""><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-## By the way here are some of my statistics 🚀
-![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=richiehydra&show_icons=true&theme=tokyonight)
+
+![richiehydra's github stats](https://github-readme-stats.vercel.app/api?username=richiehydra&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=richiehydra&theme=tokyonight" alt="mystreak"/>
 
 

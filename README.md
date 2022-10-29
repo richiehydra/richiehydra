@@ -10,7 +10,7 @@
 
 
 
-- 📫 How to reach me **richiehydra22@gmail.com**
+- 📫 How to reach me mail at **richiehydra22@gmail.com**
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 

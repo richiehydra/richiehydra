@@ -12,7 +12,7 @@
 
 - 👨🏽‍💻 I’m currently a ISE Undergrad student at NMIT, Banglore
 - 🌱 I’m currently exploring Defi with a big interest
-- 🤔 My interest lies in  Web2.0 , Web3.0 , Android Stuffs , Codings Stuffs
+- 🤔 My interest lies in  Web2.0 , Web3.0 , Android App dev, Codings Stuffs
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [richiehydra22@gmail.com].
 

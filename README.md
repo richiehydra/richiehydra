@@ -25,8 +25,7 @@ I believe in applying the right tools for the right problems. My development app
 
 I’m always excited to collaborate on new projects and contribute to the tech community. Let's connect:  
 
-- 📧 **Email:** [keshavpoojary@gmail.com](mailto:poojarii018@gmail.com)  
-- 🔗 **LinkedIn:** [Keshav Poojary]([https://www.linkedin.com/in/keshavpoojary/](https://www.linkedin.com/in/keshav-poojary-8707b6225/))  
+- 📧 **Email:** [poojarii018@gmail.com](mailto:poojarii018@gmail.com)  
 
 ---
 

@@ -7,7 +7,7 @@ I'm **Keshav Poojary**, a **Backend-Heavy Full Stack Software Developer** passio
 - **Backend & Microservices:** NodeJs, Event-Driven Systems, Serverless Architecture  
 - **Tech Stack:** MERN  
 - **Languages:** TypeScript, JavaScript, NestJS  
-- **Databases:**  DynamoDB, SQL, Postgres, 
+- **Databases:**  DynamoDB, Postgres, SQL 
 - **Frameworks:** ReactJS, ExpressJS
 - **Cloud:** AWS  
 - **Orchestration & Containers:** Docker, Kubernetes  
